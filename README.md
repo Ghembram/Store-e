@@ -1,8 +1,8 @@
 # Store-e-react
 
-## Available Scripts
+## Features
 
-### `npm start`
+### Descreption
 
 ### `npm test`
 
